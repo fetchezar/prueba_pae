@@ -1,7 +1,4 @@
 import numpy as np
-import pandas as pºd
-from sklearn.model_selection import train_test_split
-from matplotlib import pyplot as plt
 from bisect import bisect as binsearch
 
 def train_data_for(data, gender, ranges, xbin, ybin):
